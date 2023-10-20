@@ -1,5 +1,5 @@
 # github-class-section
-https://github.com/laffan/github-class-section-A
+https://github.com/laffan/github-class-section
 
 https://docs.google.com/spreadsheets/d/1NsUz9npVmNpPE7uIFGGiwJFM8-5GI91P9v81xLuza2w/edit#gid=0
 
